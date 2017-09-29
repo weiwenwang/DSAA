@@ -1,0 +1,7 @@
+# 忽略build文件夹，不忽略build文件
+*/build/*
+!build
+
+cmake-build-debug
+
+.idea
