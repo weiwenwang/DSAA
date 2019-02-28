@@ -3,8 +3,6 @@
 #include "bTree.h"
 
 int main(int argc, char** argv) {
-	printf("%s\n", "niaho");
-
 	Btree *btree = initBtree(20);
 
 	insertNodeToBtree(btree, 30);
